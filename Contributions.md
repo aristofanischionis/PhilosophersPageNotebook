@@ -8,7 +8,7 @@
 - I also created a scrapper that searches for hashtags (#) related to philosophy in Instagram's explore page, extracted the text from the image posts and ran it against the philosophers' names csv, in order to find out which philosophers' are mostly quoted today.
 - Built and deployed the webpage.
 
-## Marta
+## Marta Pacuszka
 
 - Downloading and cleaning up quotes, sentiment analysis on quotes.              
 - Building the Quotes Network, extracting categories from philosophers pages.
@@ -16,7 +16,7 @@
 - Extracting communities and building wordclouds, top 100 words (basically everything in{" "} <a target="_blank" rel="noreferrer" href="https://github.com/aristofanischionis/PhilosophersPageNotebook/blob/main/FinalQuotesNotebook.ipynb">The quotes notebook </a>, including some failed experiments like topic modelling with LDA from quotes ). 
 - Also building the webpage.
 
-## Alessandro
+## Alessandro Parroco
 
 - Extracting introduction section from philosophers wikipages with Regex.
 - Text processing and cleaning.
