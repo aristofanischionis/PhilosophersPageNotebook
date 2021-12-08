@@ -1,0 +1,19 @@
+[
+  "* The effort only shifted me from the frying-pan into the fire.",
+  "* The truth is hidden from us. Even if a mere piece of luck brings us straight to it, we shall have no grounded conviction of our success; there are so many similar objects, all claiming to be the real thing.",
+  "* I now make the only true statement you are to expect \u2013 that I am a liar.  This confession is, I consider, a full defence against all imputations.  My subject is, then, what I have neither seen, experienced, nor been told, what neither exists nor could conceivably do so.  I humbly solicit my readers incredulity.",
+  "*First, then, I went to the Indians, the mightiest nation upon earth. I had little trouble in persuading them to descend from their elephants and follow me. The Brahmins, who dwell between Oxydracae and the country of the Nechrei, are mine to a man: they live according to my laws, and are respected by all their neighbours; and the manner of their death is truly wonderful.",
+  "** Criticism is twofold: that which teaches us what we are to choose, and that which teaches us what to avoid.",
+  "* These men seem not to know that poetry has its particular rules and precepts; and that history is governed by others directly opposite.",
+  "* He is unpardonable, therefore, who cannot distinguish one from the other; but lays on history the paint of poetry, its flattery, fable, and hyperbole: it is just as ridiculous as it would be to clothe one of our robust wrestlers, who is as hard as an oak, in fine purple, or some such meretricious garb, and put paint on his cheeks; how would such ornaments debase and degrade him! ",
+  "* History, when she adds pleasure to utility, may attract more admirers; though as long as she is possessed of that greatest of perfections, truth, she need not be anxious concerning beauty.",
+  "* In history, nothing fabulous can be agreeable.",
+  "* Everything has a beauty peculiar to itself; but if you put one instead of another, the most beautiful becomes ugly, because it is not in its proper place.",
+  "* If the brave should fly, he who pursues must be braver.",
+  "* I say, therefore, that he who would write history well must be possessed of these two principal qualifications, a fine understanding and a good style: one is the gift of nature, and cannot be taught; the other may be acquired by frequent exercise, perpetual labour and an emulation of the ancients.",
+  "* The historians one task is to tell the thing as it happened.",
+  "* For history, I say again, has this and this only for its own: if a man will start upon it, he must sacrifice to no God but Truth; he must neglect all else; his sole rule and unerring guide is this \u2013 to think not of those who are listening to him now, but of the yet unborn who shall seek his converse.",
+  "* The good historian, then, must be thus described: he must be fearless, uncorrupted, free, the friend of truth and of liberty; one who, to use the words of the comic poet, calls a fig a fig, and a skiff a skiff, neither giving nor withholding from any, from favour or from enmity, not influenced by pity, by shame, or by remorse; a just judge, so far benevolent to all as never to give more than is due to any in his work; a stranger to all, of no country, bound only by his own laws, acknowledging no sovereign, never considering what this or that man may say of him, but relating faithfully everything as it happened.",
+  "* The body of the history is only a long narrative, and as such it must go on with a soft and even motion, alike in every part, so that nothing should stand too forward, or retreat too far behind.",
+  "* Ignorance is a dreadful thing and has caused no end of damage to the human race."
+]

@@ -1,0 +1,7 @@
+[
+  "* Riches are a cause of evil, not because, of themselves, they do any evil, but because they goad men on so that they are ready to do evil.",
+  "* A single day among the learned lasts longer than the longest life of the ignorant.",
+  "* Things which bestow upon the soul no greatness or confidence or freedom from care are not goods. But riches and health and similar conditions do none of these things; therefore, riches and health are not goods. Things which bestow upon the soul no greatness or confidence or freedom from care, but on the other hand create in it arrogance, vanity, and insolence, are evils. But things which are the gift of Fortune drive us into these evil ways. Therefore these things are not goods.",
+  "* When men were scattered over the earth, protected by eaves or by the dug-out shelter of a cliff or by the trunk of a hollow tree, it was philosophy that taught them to build houses.",
+  "* There are never any occasions when you need think yourself safe because you wield the weapons of Fortune; fight with your own! Fortune does not furnish arms against herself; hence men equipped against their foes are unarmed against Fortune herself."
+]

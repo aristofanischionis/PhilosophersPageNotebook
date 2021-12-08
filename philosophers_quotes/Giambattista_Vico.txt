@@ -1,0 +1,5 @@
+[
+  "** The truth itself is made.",
+  "** The New Science 241 (1744)",
+  "* Uniform ideas originating among entire peoples unknown to each other must have a common ground of truth."
+]

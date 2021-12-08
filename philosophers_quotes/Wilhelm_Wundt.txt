@@ -1,0 +1,8 @@
+[
+  "* The results of ethnic psychology constitute... our chief source of information regarding the general psychology of the complex mental processes.",
+  "* In Aristotle the mind, regarded as the principle of life, divides into nutrition, sensation, and faculty of thought, corresponding to the inner most important stages in the succession of vital phenomena.",
+  "* From the standpoint of observation, then, we must regard it as a highly probable hypothesis that the beginnings of the mental life date from as far back as the beginnings of life at large.",
+  "* We call that psychical process, which is operative in the clear perception of a narrow region of the content of consciousness, attention.",
+  "* The whole task of psychology can therefore be summed up in these two problems : (1) What are the elements of consciousness ? (2) What combinations do these elements undergo and what laws govern these combinations ? ",
+  "* If we take an unprejudiced view of the processes of consciousness, free from all the so-called association rules and theories, we see at once that an idea is no more an even relatively constant thing than is a feeling or emotion or volitional process. There exist only changing and transient ideational processes ; there are no permanent ideas that return again and disappear again."
+]

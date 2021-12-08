@@ -1,0 +1,5 @@
+[
+  "** Listen to learned men, but do so only with one ear !...  Let the other be always ready to receive the sweet accents of the voice of your heavenly Friend!",
+  "* Either one or the other [ analysis or synthesis ] may be direct or indirect. The direct procedure is when the point of departure is known-direct synthesis in the elements of geometry. By combining at random simple truths with each other, more complicated ones are deduced from them. This is the method of discovery, the special method of inventions, contrary to popular opinion. ",
+  "* There is synthesis when, in combining therein judgments that are made known to us from simpler relations, one deduces judgments from them relative to more complicated relations. There is analysis when from a complicated truth one deduces more simple truths. "
+]

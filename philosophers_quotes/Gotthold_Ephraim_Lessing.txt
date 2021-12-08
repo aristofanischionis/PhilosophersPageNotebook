@@ -1,0 +1,14 @@
+[
+  "** What is a hero without love for mankind?",
+  "** It is the mark of great people to treat trifles as trifles and important matters as important.",
+  "** Pearls mean tears.",
+  "** Better counsel comes overnight.",
+  "** To look forward to pleasure is also a pleasure.",
+  "* The true value of a man is not determined by his possession, supposed or real, of Truth, but rather by his sincere exertion to get to the Truth. It is not possession of the Truth, but rather the pursuit of Truth by which he extends his powers and in which his ever-growing perfectibility is to be found. Possession makes one passive, indolent, and proud. If God were to hold all Truth concealed in his right hand, and in his left only the steady and diligent drive for Truth, albeit with the proviso that I would always and forever err in the process, and offer me the choice, I would with all humility take the left hand, and say: Father, I will take this one\u2014the pure Truth is for You alone.",
+  "* I, who neer  Went for myself a begging, go a borrowing,  And that for others. Borrowings much the same  As begging; just as lending upon usury Is much the same as thieving.",
+  "* The worst of superstitions is to think  Ones own most bearable.",
+  "** Man, whence is he?  Too bad to be the work of a god, too good for the work of chance.",
+  "* Trust no friend without faults, and love a maiden, but no angel.",
+  "** It is infinitely difficult to know when and where one should stop, and for all but one in thousands the goal of their thinking is the point at which they have become tired of thinking.",
+  "** Precisely the way on which the species reaches its perfection, every individual human being (one earlier, one later) must have traversed, too."
+]

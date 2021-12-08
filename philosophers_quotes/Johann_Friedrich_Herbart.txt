@@ -1,0 +1,4 @@
+[
+  "* The intention with which the educator is to approach his work, this practical reflection, provisionally detailed down to the measures which our present state of knowledge suggests we should choose, is to my mind the first half of pedagogics. But there must be a second in which the possibility of education is theoretically explained and presented with its limitations in the light of changing circumstances.",
+  "* It is of course a familiar precept that the teacher must try to arouse the interest of his pupils in all that he teaches. However, this precept is generally meant and understood to denote the idea that learning is the end and interest the means to attain it. I wish to reverse that relationship. Learning must serve the purpose of creating interest. Learning is transient, but interest must be lifelong."
+]

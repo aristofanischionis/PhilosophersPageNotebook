@@ -1,0 +1,3 @@
+[
+  "* The principal way that cognitive science can contribute to epistemology, I claim, is to identify basic belief-forming, or problem-solving processes. Once identified, these processes would be examined by primary epistemology according to the evaluative dimensions and standards adduced in Part I."
+]

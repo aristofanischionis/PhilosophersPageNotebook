@@ -1,0 +1,8 @@
+[
+  "* Man is the measure of all things: of things which are, that they are, and of things which are not, that they are not.",
+  "* There are two sides to every question.",
+  "* As touching the gods, I do not know whether they exist or not, nor how they are featured; for there is much to prevent our knowing: the obscurity of the subject and the brevity of human life.",
+  "* The Athenians are right to accept advice from anyone, since it is incumbent on everyone to share in that sort of excellence, or else there can be no city at all.",
+  "* When it comes to consideration of how to do well in running the city, which must proceed entirely through justice and soundness of mind.",
+  "* You, Socrates, began by saying that virtue cant be taught, and now you are insisting on the opposite, trying to show that all things are knowledge, justice, soundness of mind, even courage, from which it would follow that virtue most certainly can be taught."
+]

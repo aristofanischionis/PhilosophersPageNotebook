@@ -1,0 +1,3 @@
+[
+  "*A theory of knowledge is an answer to the question \"What is knowledge?\" This question, like many which are asked by philosophers, sounds very simple. We all know, at least roughly, what knowledge is. But difficulties appear the moment that we begin to fill in the details."
+]

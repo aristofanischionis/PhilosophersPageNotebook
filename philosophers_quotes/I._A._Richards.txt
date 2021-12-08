@@ -1,0 +1,6 @@
+[
+  "* A book is a machine to think with, but it need not, therefore, usurp the functions either of the bellows or the locomotive.",
+  "* The chief lesson to be learnt from it is the futility of all argumentation that precedes understanding. We cannot profitably attack any opinion until we have discovered what it expresses as well as what it states.",
+  "* An experience has to be formed, no doubt, before it is communicated, but it takes the form it does largely because it may have to be communicated.",
+  "* Very simple experiences \u2013 a cold bath in an enamelled tin, or running for a train \u2013 may to some extent be compared without elaborate vehicles; and friends exceptionally well acquainted with one another may manage some rough comparisons in ordinary conversation. But subtle or recondite experiences are for most men incommunicable and indescribable, though social conventions or terror of the loneliness of the human situation may make us pretend the contrary.\u201d"
+]

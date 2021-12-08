@@ -1,0 +1,5 @@
+[
+  "*  Koj\u00e8ve is the unknown Superior whose dogma is revered, often unawares, by that important subdivision of the \"animal kingdom of the spirit\" in the contemporary world - the progressivist intellectuals. ",
+  "* * Kojeve learned from Hegel that the philosopher seeks to know himself or to possess full self-consciousness, and that, therefore, the true philosophic endeavor is a coherent explanation of all things that culminates in the explanation of philosophy. The man who seeks any other form of knowledge, who cannot explain his own doings, cannot be called a philosopher. ",
+  "* Starting with \"I think,\" Descartes fixed his attention only on the \"think,\" completely neglecting the \"I.\" Now, this I is essential. For Man, and consequently the Philosopher, is not only Consciousness, but also- and above all-Self-Consciousness. Man is not only a being that thinks - i.e., reveals Being by Logos, by Speech formed of words that have a meaning. He reveals in addition  -also by Speech - the being that reveals Being, the being that he himself is, the revealing being that he opposes to the revealed being by giving it the name Ich or Selbst, I or Self."
+]

@@ -1,0 +1,5 @@
+[
+  "* It really is a nice theory. The only defect I think it has is probably common to all philosophical theories. Its wrong.",
+  "* If I use the name Hesperus to refer to a certain planetary body when seen in a certain celestial position in the evening, it will not therefore be a necessary truth that Hesperus is ever seen in the evening. That depends on various contingent facts about people being there to see and things like that. So even if I should say to myself that I will use Hesperus to name the heavenly body I see in the evening in yonder position of the sky, it will not be necessary that Hesperus was ever seen in the evening. But it may be a priori in that this is how I have determined the referent.",
+  "* I am somewhat uncertain whether there is a definite factual question as to whether natural language handles truth-value gaps \u2026  Nor am I even quite sure that there is a definite question of fact as to whether natural language should be evaluated by the minimal fixed point or another, given the choice of a scheme for handling gaps. We are not at the moment searching for the correct scheme."
+]

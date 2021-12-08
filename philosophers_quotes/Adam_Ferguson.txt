@@ -1,0 +1,13 @@
+[
+  "* The attainments of the parent do not descend in the blood of his children, nor is the progress of man to be considered as a physical mutation of the species.",
+  "* Love is an affection which carries the attention of the mind beyond itself, and is the sense of a relation to some fellow creature as to its object.",
+  "* Mankind have always wandered or settled, agreed or quarrelled, in troops and companies.",
+  "* We are fond of distinctions; we place ourselves in opposition, and quarrel under the denominations of faction and party, without any material subject of controversy.",
+  "* Men are to be estimated, not from what they know, but from what they are able to perform.",
+  "* The history of mankind is confined within a limited period, and from every quarter brings an intimation that human affairs have had a beginning.",
+  "* Man, in his animal capacity, is qualified to subsist in every climate.",
+  "* \u2026if we intend to pursue the history of our species in its further attainments, we may soon enter on subjects which will confine our observation to more narrow limits. The genius of political wisdom and civil arts appears to have chosen his seats in particular tracts of the earth, and to have selected his favourites in particular races of men.",
+  "* Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which are indeed the result of human action, but not the execution of any human design.",
+  "* In every commercial state, notwithstanding any pretension to equal rights, the exaltation of a few must depress the many.",
+  "* Theory consists in referring particular operations to the principles, or general laws, under which they are comprehended; or in referring particular effects to the causes from which they proceed."
+]

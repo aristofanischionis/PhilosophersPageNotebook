@@ -1,0 +1,3 @@
+[
+  "* Although many philosophers used to dismiss the relevance of neuroscience on grounds that what mattered was \u201cthe software, not the hardware\u201d, increasingly philosophers have come to recognize that understanding how the brain works is essential to understanding the mind."
+]

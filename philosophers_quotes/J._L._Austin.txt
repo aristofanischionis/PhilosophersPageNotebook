@@ -1,0 +1,23 @@
+[
+  "* What is truth? said jesting Pilate, and would not stay for an answer.",
+  "* Going back into the history of a word, very often into Latin, we come back pretty commonly to pictures or models of how things happen or are done. These models may be fairly sophisticated and recent, as is perhaps the case with \"motive\" or \"impulse\", but one of the commonest and most primitive types of model is one which is apt to baffle us through its very naturalness and simplicity.",
+  "* Sentences are not as such either true or false.",
+  "* We speak of people \"taking refuge\" in vagueness \u2014 the more precise you are, in general the more likely you are to be wrong, whereas you stand a good chance of not being wrong if you make it vague enough.",
+  "* Infelicity is an ill to which all acts are heir which have the general character of ritual or ceremonial, all conventional acts.",
+  "* There are more ways of killing a cat than drowning it in butter; but this is the sort of thing (as the proverb indicates) we overlook: there are more ways of outraging speech than contradiction merely.",
+  "* The Nicomachean Ethics is only intended as a guide for politicians, and they are only concerned to know what is good, not what goodness means ... and in any case one can know what things are good without knowing the analysis of \"good\".",
+  "* Why should it not be the whole function of a word to denote many things?",
+  "* In one sense \"there are\" both universals and material objects, in another sense there is no such thing as either: statements about each can usually be analysed, but not always, nor always without remainder.",
+  "* But surely, speaking carefully, we do not sense \"red\" and \"blue\" any more than \"resemblance\" (or \"qualities\" any more than \"relations\"): we sense something of which we might say, if we wished to talk about it, that \"this is red.\"",
+  "* It may justly be urged that, properly speaking, what alone has meaning is a sentence.",
+  "* Faced with the nonsense question \"What is the meaning of a word?\" and perhaps dimly recognizing it to be nonsense, we are nevertheless not inclined to give it up.",
+  "* Ordinary language blinkers the already feeble imagination.",
+  "* If we say that I only get at the symptoms of his anger, that carries an important implication. But is this the way we do talk?",
+  "*But suppose we take the noun \"truth\": here is a case where the disagreements between different theorists have largely turned on whether they interpreted this as a name of a substance, of a quality, or of a relation.",
+  "* We become obsessed with \"truth\" when discussing statements, just as we become obsessed with \"freedom\" when discussing conduct...Like freedom, truth is a bare minimum or an illusory ideal.",
+  "* Like \"real\", \"free\" is only used to rule out the suggestion of some or all of its recognized antitheses. As \"truth\" is not a name of a characteristic of assertions, so \"freedom\" is not a name for a characteristic of actions, but the name of a dimension in which actions are assessed.",
+  "* Words are not (except in their own little corner) facts or things: we need therefore to prise them off the world, to hold them apart from and against it, so that we can realize their inadequacies and arbitrariness, and can relook at the world without blinkers.",
+  "* Ordinary language is not the last word: in principle it can everywhere be supplemented and improved upon and superseded. Only remember, it is the first word.",
+  "* However well equipped our language, it can never be forearmed against all possible cases that may arise and call for description: fact is richer than diction.",
+  "* Let us distinguish between acting intentionally and acting deliberately or on purpose, as far as this can be done by attending to what language can teach us."
+]

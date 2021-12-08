@@ -1,0 +1,4 @@
+[
+  "* The state gives orders and coerces, religion teaches and persuades. The state prescribes laws, religion commandments. The state has physical power and uses it when necessary; the power of religion is love and benificence. The one abandons the disobedient and expels him; the other receives him in its bosom and seeks to instruct, or at least to console him.",
+  "* Divine religion ... does not prod men with an iron rod; it guides them with bands of love. It draws no avenging sword, dispenses no temporal goods, assumes no right to any earthly possessions, and claims no external power over the mind. Its weapons are reason and persuasion; its strength is the divine power of truth."
+]

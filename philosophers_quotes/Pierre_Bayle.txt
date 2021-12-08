@@ -1,0 +1,5 @@
+[
+  "** Pierre Bayle, Reply to the Questions of a Provincial (R\u00e9ponse aux questions dun provincial, 1703). Quoted in Elisabeth Labrousse, Bayle, trans. Denys Potts (Oxford University Press, 1983), p. 61 ",
+  "* There is not less wit nor invention in applying rightly a thought one finds in a book, than in being the first author of that thought. {{w|Cardinal du Perron}} has been heard to say that the happy application of a verse of Virgil has deserved a talent.",
+  "* If the Multiplicity of Religions prejudices the State, it proceeds from their not bearing with one another but on the contrary endeavouring each to crush and destroy the other by methods of Persecution. In a word, all the Mischief arises not from Toleration, but from the want of it."
+]

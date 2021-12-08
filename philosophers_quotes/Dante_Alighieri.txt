@@ -1,0 +1,14 @@
+[
+  "* In quella parte del libro de la mia memoria... si trova una rubrica la quale dice: Incipit vita nova.",
+  "** Behold a God more powerful than I who comes to rule over me.",
+  "** In his arms, my lady lay asleep, wrapped in a veil.He woke her then and trembling and obedientShe ate that burning heart out of his hand;Weeping I saw him then depart from me.",
+  "** She is the sum of natures universe.To her perfection all of beauty tends.",
+  "** Love and the gracious heart are a single thing...one can no more be without the otherthan the reasoning mind without its reason.",
+  "** Love hath so long possessed me for his ownAnd made his lordship so familiar.",
+  "** Love with delight discourses in my mind Upon my ladys admirable gifts...Beyond the range of human intellect.",
+  "** Morality is the beauty of Philosophy.",
+  "** For in every action what is primarily intended by the doer, whether he acts  from natural necessity or out of free will, it is the disclosure of his own image. Hence it comes about that every doer, in so far as he does, takes delight in doing; since everything that is desires its own being, and since in action the being of the doer is somehow intensified, delight necessarily follows... Thus, nothing acts unless [by acting] it makes patent its latent self.",
+  "** When we understand this we see clearly that the subject round which the alternative senses play must be twofold. And we must therefore consider the subject of this work [the Divine Comedy] as literally understood, and then its subject as allegorically intended. The subject of the whole work, then, taken in the literal sense only is \"the state of souls after death\" without qualification, for the whole progress of the work hinges on it and about it. Whereas if the work be taken allegorically, the subject is \"man as by good or ill deserts, in the exercise of the freedom of his choice, he becomes liable to rewarding or punishing justice.\"",
+  "** Now the kind of philosophy under which we proceed in the whole and in the part is moral philosophy or ethics; because the whole was undertaken not for speculation but for practice.",
+  "* The hottest places in hell are reserved for those who in times of great moral crisis maintain their neutrality."
+]

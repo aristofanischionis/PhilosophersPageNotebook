@@ -1,0 +1,4 @@
+[
+  "** God made the integers, all the rest is the work of man.",
+  "** from a letter to Kroneckers Jugendtraum."
+]

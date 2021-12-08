@@ -1,0 +1,20 @@
+[
+  "* Encratic language (the language produced and spread under the protection of power) is statutorily a language of repetition; all official institutions of language are repeating machines: schools, sports, advertising, popular songs, news, all continually repeat the same structure, the same meaning, often the same words.",
+  "** The bastard form of mass culture is humiliated repetition: content, ideological schema, the blurring of contradictions\u2014these are repeated, but the superficial forms are varied: always new books, new programs, new films, news items, but always the same meaning.",
+  "* Language is a skin: I rub my language against the other. It is as if I had words instead of fingers, or fingers at the tip of my words. My language trembles with desire. ",
+  "* The politician being interviewed clearly takes a great deal of trouble to imagine an ending to his sentence: and if he stopped short? His entire policy would be jeopardized!",
+  "* The bourgeoisie is defined as the social class which does not want to be named.",
+  "* Bourgeois norms are experienced as the evident laws of a natural orderthe further the bourgeois class propagates its representations, the more naturalized they become.",
+  "* Myth is depoliticized speech.",
+  "* The bourgeoisie hides the fact that it is the bourgeoisie and thereby produces myth; revolution announces itself openly as revolution and thereby abolishes myth.",
+  "* Statistically, myth is on the right. There, it is essential, well-fed, sleek, expensive, garrulous, it invents itself ceaselessly. It takes hold of everything, all aspects of the law, of morality, of aesthetics, of diplomacy, of household equipment, of Literature, of entertainment.",
+  "** p. 151",
+  "* By reducing any quality to quantity, myth economizes intelligence: it understands reality more cheaply.",
+  "* The petit-bourgeois is a man unable to imagine the Other. If he comes face to face with him, he blinds himself, ignores and denies him, or else transforms him into himself.",
+  "* What the public wants is the image of passion, not passion itself.",
+  "* The Text is not a definitive object.",
+  "* A work has two levels of meaning: literal and concealed.  A Text, on the other hand is engaged in a movement \u2026 a deferral \u2026 a dilation of meaning \u2026 the play of signification.  Metonymy \u2014 the association of part to whole \u2014 characterized the logic of the Text.  In this sense the Text is \"radically symbolic\" and lacks closure. ",
+  "* The Text is plural. Which is not simply to say that it has several meanings, but that it accomplishes the very plural of meaning: an irreducible (and not merely an acceptable) plural. The Text is not a co-existence of meanings but a passage, an overcrossing; thus it answers not to an interpretation, even a liberal one, but to an explosion, a dissemination. ",
+  "* Whereas the work is understood to be traceable to a source (through a process of derivation or \"filiation\"), the Text is without a source \u2014 the \"author\" a mere \"guest\" at the reading of the Text.",
+  "* The discourse on the Text should itself be nothing other than text, research, textual activity, since the Text is that social space which leaves no language safe, outside, nor any subject of the enunciation in position as judge, master, analyst, confessor, decoder. The theory of the Text can coincide only with a practice of writing."
+]

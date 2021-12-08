@@ -1,0 +1,23 @@
+[
+  "**The investigation of the meaning of words is the beginning of education.",
+  "**Id rather be mad than feel pleasure.",
+  "**It is a royal privilege to do good and be ill spoken of.",
+  "** Antisthenes ... said once to a youth from Pontus who was on the point of coming to him to be his pupil, and was asking him what things he wanted, \"You want a new book, and a new pen, and a new tablet;\" - meaning a new mind.",
+  "*It is better to fall in with crows than with flatterers; for in the one case you are devoured when dead, in the other case while alive.",
+  "** When he was asked what advantage had accrued to him from philosophy, his answer was, \u201cThe ability to hold converse with myself.\u201d",
+  "* States are doomed when they are unable to distinguish good men from bad.",
+  "*As iron is eaten away by rust, so the envious are consumed by their own passion.",
+  "*Once, when he was applauded by rascals, he remarked, \"I am horribly afraid I have done something wrong.\"",
+  "** Ill repute is a good thing and much the same as pain.",
+  "** Antisthenes ... used to say that the wise man would regulate his conduct as a citizen, not according to the established laws of the state, but according to the law of virtue.",
+  "** It is better to fight with a few good men against all the wicked, than with many wicked men against a few good men.",
+  "**One should attend to ones enemies, for they are the first persons to detect ones errors.",
+  "** Virtue is the same for a man and for a woman.",
+  "** Count all wickedness foreign and alien.",
+  "**Being asked what learning is the most necessary, he replied, \"How to get rid of having anything to unlearn.\"",
+  "*Pay attention to your enemies, for they are the first to discover your mistakes.",
+  "*Wealth and poverty do not lie in a persons estate, but in their souls.",
+  "*I have enough to eat till my hunger is stayed, to drink till my thirst is sated; to clothe myself withal; and out of doors not Callias there, with all his riches, is more safe than I from shivering; and when I find myself indoors, what warmer shirting do I need than my bare walls? what ampler greatcoat than the tiles above my head?",
+  "*There is no work so mean, but it would amply serve me to furnish me with sustenance.",
+  "*To all my friends without distinction I am ready to display my opulence: come one, come all; and whosoever likes to take a share is welcome to the wealth that lies within my soul."
+]

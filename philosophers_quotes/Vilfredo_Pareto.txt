@@ -1,0 +1,15 @@
+[
+  "* The assertion that men are objectively equal is so absurd that it does not even merit being refuted.",
+  "* Assume that the new elite were clearly and simply to proclaim its intentions which are to supplant the old elite; no one would come to its assistance, it would be defeated before having fought a battle. On the contrary, it appears to be asking nothing for itself, well knowing that without asking anything in advance it will obtain what it wants as a consequence of its victory.",
+  "* It is a known fact that almost all revolutions have been the work, not of the common people, but of the aristocracy, and especially of the decayed part of the aristocracy.",
+  "* The economic and social theories used by those who take part in the social struggle ought to be judged not by their objective value but primarily for their effectiveness in arousing emotions. The scientific refutation of them which can be made is useless, however correct it may be objectively.",
+  "* When it is useful to them, men can believe a theory of which they know nothing more than its name.",
+  "* Men follow their sentiments and their self-interest, but it pleases them to imagine that they follow reason. And so they look for, and always find, some theory which, a posteriori, makes their actions appear to be logical. If that theory could be demolished scientifically, the only result would be that another theory would be substituted for the first one, and for the same purpose.",
+  "* The diverse natures of men, combined with the necessity to satisfy in some manner the sentiment which desires them to be equal, has had the result that in the democracies they have endeavored to provide the appearance of power in the people and the reality of power in an elite.",
+  "* Society is not homogeneous, and those who do not deliberately close their eyes have to recognize that men differ greatly from one another from the physical, moral, and intellectual viewpoints.",
+  "* Empirical laws [...] have only slight or even no value beyond the limits within which they have been observed to be true.",
+  "* Among civilized peoples, especially the very wealthy population of the United States of America, women have become objects of luxury who consume but do not produce.",
+  "* Increase in the wealth per capita fosters democracy; but the latter, at least according to what we have been able to observe up to now, entails great destruction of wealth and even eventually dries up the sources of it. Hence it is its own grave-digger, it destroys what gave it birth.",
+  "* Usually, so far as improvement in the peoples economic conditions is concerned, humanitarians simply play the role of the busybody.",
+  "* For a very long time, and among a large number of peoples, political power has belonged to the owners of the land."
+]

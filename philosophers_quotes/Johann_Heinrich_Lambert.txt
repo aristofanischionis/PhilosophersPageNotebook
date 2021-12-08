@@ -1,0 +1,10 @@
+[
+  "* If in two ellipses having a common major axis we take two such arcs that their chords are equal, and that also the sums of the radii vectores, drawn respectively from the foci to the extremities of these arcs, are equal to each other, then the sectors formed in each ellipse by the arc and the two radii vectores are to each other as the square roots of the parameters of the ellipses.",
+  "* We would wish to discover the Plan of the Universe, and the means employed by the Eternal Architect in the execution of his magnificent design. We will first contemplate the System of which we make a part, and of which our Sun is the center. Thence we will ascend towards those Suns and those innumerable Worlds which are scattered through the immensity of space.",
+  "* But, are the faculties of our nature equal to this? and what are the principles which ought to guide us in these researches?",
+  "* We suppose the existence of a wise and beneficent Being who presided over the formation of the World, and who is pleased to display his infinite perfections on this illustrious theatre.",
+  "*  We will found our hypothesis in the general laws of motion, whose effects are every where the same, and whose influence extends to the utmost limits of matter.",
+  "* We will next proceed by the lamp of experience, consulting with care the observations deposited in the records of astronomy.",
+  "* In order to supply the defects of experience, we will have recourse to the probable conjectures of analogy, conclusions which we will bequeath to our posterity to be ascertained by new observations, which, if we augur rightly, will serve to establish our theory and to carry it gradually nearer to absolute certainty.",
+  "* This is all to which weak and limited beings can pretend, beings who occupy a point, and last but a moment in this mighty edifice built for eternity."
+]

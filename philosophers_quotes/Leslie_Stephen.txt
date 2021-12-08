@@ -1,0 +1,13 @@
+[
+  "* He who sees only what is before his eyes sees the worst part of every view.",
+  "* The division between faith and reason is a half-measure, till it is frankly admitted that faith has to do with fiction, and reason with fact.",
+  "* Poe is a kind of Hawthorne and delirium tremens.",
+  "* Why, when no honest man will deny in private that every ultimate problem is wrapped in the profoundest mystery, do honest men proclaim in pulpits that unhesitating certainty is the duty of the most foolish and ignorant? Is it not a spectacle to make the angels laugh?",
+  "* Philistine \u2013 a word which I understand properly to denote indifference to the higher intellectual interests.  The word may also be defined, however, as the name applied by prigs to the rest of their species.",
+  "* A good talker, even more than a good orator, implies a good audience.  Modern society is too vast and too restless to give a conversationalist a fair chance.",
+  "* If atheism is to be used to express the state of mind in which God is identified with the unknowable, and theology is pronounced to be a collection of meaningless words about unintelligible chimeras, then I have no doubt, and I think few people doubt, that atheists are as plentiful as blackberries.",
+  "* The doctrine of toleration requires a positive as well as a negative statement.  It is not only wrong to burn a man on account of his creed, but it is right to encourage the open avowal and defence of every opinion sincerely maintained.  Every man who says frankly and fully what he thinks is so far doing a public service.  We should be grateful to him for attacking most unsparingly our most cherished opinions.",
+  "* Walking is the natural recreation for a man who desires not absolutely to suppress his intellect but to turn it out to play for a season.",
+  "* If you wish at once to do nothing and to be respectable now-a-days, the best pretext is to be at work on some profound study.",
+  "*The poet should touch our heart by showing his own"
+]

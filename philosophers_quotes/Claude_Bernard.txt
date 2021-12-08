@@ -1,0 +1,22 @@
+[
+  "*Science does not permit exceptions.",
+  "* Science admits no exceptions; otherwise there would be no determinism in science, or rather, there would be no science.",
+  "* The stability of the internal medium is a primary condition for the freedom and independence of certain living bodies in relation to the environment surrounding them.",
+  "* All the vital mechanisms, varied as they are, have only one object, that of preserving constant the conditions of life in the internal environment.",
+  "* The mental never influences the physical. It is always the physical that modifies the mental, and when we think that the mind is diseased, it is always an illusion.",
+  "* Ardent desire for knowledge, in fact, is the one motive attracting and supporting investigators in their efforts; and just this knowledge, really grasped and yet always flying before them, becomes at once their sole torment and their sole happiness\u2026.A man of science rises ever, in seeking truth; and if he never finds it in its wholeness, he discovers nevertheless very significant fragments; and these fragments of universal truth are precisely what constitutes science.",
+  "* Observation is a passive science, experimentation an active science.",
+  "* The science of life is a superb and dazzlingly lighted hall which may be reached only by passing through a long and ghastly kitchen.",
+  "* Science repulses the indefinite.",
+  "* They make poor observations, because they choose among the results of their experiments only what suits their object, neglecting whatever is unrelated to it and carefully setting aside everything which might tend toward the idea they wish to combat.",
+  "* When we meet a fact which contradicts a prevailing theory, we must accept the fact and abandon the theory, even when the theory is supported by great names and generally accepted.",
+  "* Theories are only verified hypotheses, verified by more or less numerous facts. Those verified by the most facts are the best, but even then they are never final, never to be absolutely believed.",
+  "* Indeed, proof that a given condition always precedes or accompanies a phenomenon does not warrant concluding with certainty that a given condition is the immediate cause of that phenomenon. It must still be established that when this condition is removed, the phenomen will no longer appear.",
+  "* A great surgeon performs operations for stone by a single method; later he makes a statistical summary of deaths and recoveries, and he concludes from these statistics that the mortality law for this operation is two out of five. Well, I say that this ratio means literally nothing scientifically and gives us no certainty in performing the next operation; for we do not know whether the next case will be among the recoveries or the deaths. What really should be done, instead of gathering facts empirically, is to study them more accurately, each in its special determinism\u2026.to discover in them the cause of mortal accidents so as to master the cause and avoid the accidents.",
+  "* True science teaches us to doubt and to abstain from ignorance.",
+  "* Science increases our power in proportion as it lowers our pride.",
+  "* If I had to define life in a word, it would be: Life is creation.",
+  "* A modern poet has characterized the personality of art and the impersonality of science as follows: Art is I: Science is We.",
+  "* Man can learn nothing unless he proceeds from the known to the unknown.",
+  "* We must never make experiments to confirm our ideas, but simply to control them."
+]

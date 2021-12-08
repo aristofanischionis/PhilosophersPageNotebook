@@ -1,0 +1,4 @@
+[
+  "* Hui Shih was a man of many devices and his writings would fill five carriages. But his doctrines were jumbled and perverse and his words wide of the mark. His way of dealing with things may be seen from these sayings:",
+  "* A madman is running towards the east, the man who chases after him also running towards the east. They are similar in running towards the east, but different in why they run towards the east."
+]

@@ -1,0 +1,5 @@
+[
+  "* The physical does not mean any particular kind of reality, but a particular kind of denoting reality, namely a system of concepts in the natural sciences which is necessary for the cognition of reality. The physical should not be interpreted wrongly as an attribute of one part of reality, but not of the other ; it is rather a word denoting a kind of conceptual construction, as, e.g., the markers geographical or mathematical, which denote not any distinct properties of real things, but always merely a manner of presenting them by means of ideas.",
+  "* Philosophy is not a system of propositions, and not a science.",
+  "* Philosophy... is that activity by which the meaning of propositions is established or discovered. Philosophy elucidates propositions, science verifies them. In the latter we are concerned with the truth of statements, but in the former with what they actually mean."
+]

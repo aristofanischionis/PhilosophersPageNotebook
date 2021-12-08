@@ -1,0 +1,17 @@
+[
+  "* Society attacks early, when the individual is helpless.",
+  "* The strengthening of behavior which results from reinforcement is appropriately called \"conditioning\". In operant conditioning we \"strengthen\" an operant in the sense of making a response more probable or, in actual fact, more frequent.",
+  "* Let men be happy, informed, skillful, well behaved, and productive.",
+  "* Education is what survives when what has been learned has been forgotten.",
+  "* We shouldnt teach great books; we should teach a love of reading. Knowing the contents of a few works of literature is a trivial achievement. Being inclined to go on reading is a great achievement.",
+  "* The real question is not whether machines think but whether men do. The mystery which surrounds a thinking machine already surrounds a thinking man.",
+  "* Ethical control may survive in small groups, but the control of the population as a whole must be delegated to specialists\u2014to police, priests, owners, teachers, therapists, and so on, with their specialized reinforcers and their codified contingencies.",
+  "* We admire people to the extent that we cannot explain what they do, and the word \"admire\" then means \"marvel at.\" ",
+  "* A person who has been punished is not thereby simply less inclined to behave in a given way; at best, he learns how to avoid punishment.",
+  "* It is a mistake to suppose that the whole issue is how to free man. The issue is to improve the way in which he is controlled.",
+  "* Many instructional arrangements seem \"contrived\", but there is nothing wrong with that. It is the teachers function to contrive conditions under which students learn. Their relevance to a future usefulness need not be obvious. It is a difficult assignment. The conditions the teacher arranges must be powerful enough to compete with those under which the student tends to behave in distracting ways.",
+  "* I do not admire myself as a person. My successes do not override my shortcomings.",
+  "* The way positive reinforcement is carried out is more important than the amount.",
+  "* It has always been the task of formal education to set up behavior which would prove useful or enjoyable later in a students life.",
+  "* I did not direct my life. I didnt design it. I never made decisions. Things always came up and made them for me. Thats what life is."
+]

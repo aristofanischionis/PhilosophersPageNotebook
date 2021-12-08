@@ -1,0 +1,10 @@
+[
+  "* All men have an equal disposition for understanding. ",
+  "* No nation has reason to regard itself superior to others by virtue of its innate endowment.",
+  "*Discipline is, in a manner, nothing else but the art of inspiring the soldiers with greater fear of their officers than of the enemy. This fear has often the effect of courage: but it cannot prevail against the fierce and obstinate valor of people animated by fanaticism, or warm love of their country.",
+  "* \u2026there are men whom a happy disposition, a strong desire of glory and esteem, inspire with the same love for justice and virtue, which men in general have for riches and honours.",
+  "* Most events spring from causes equally small: we are unacquainted with them because most historians have been themselves ignorant of them, or have not had eyes capable of perceiving them. It is true, that, in this respect, the mind may repair their omissions; for the knowledge of certain principles easily compensates the lack of knowledge of certain facts.",
+  "* The degree of genius necessary to please us is pretty nearly the same proportion that we ourselves have.",
+  "* To limit the press is to insult a nation; to prohibit reading of certain books is to declare the inhabitants to be either fools or slaves: such a prohibition ought to fill them with disdain.",
+  "** By annihilating the desires, you annihilate the mind. Every man without passions has within him no principle of action, nor motive to act."
+]

@@ -1,0 +1,8 @@
+[
+  "* It is not true that on an exchange of commodities we give value for value. On the contrary, each of the two contracting parties in every case, gives a less for a greater value. \u2026 If we really exchanged equal values, neither party could make a profit. And yet, they both gain, or ought to gain. Why? The value of a thing consists solely in its relation to our wants. What is more to the one is less to the other, and vice versa. \u2026 It is not to be assumed that we offer for sale articles required for our own consumption. \u2026 We wish to part with a useless thing, in order to get one that we need; we want to give less for more. \u2026 It was natural to think that, in an exchange, value was given for value, whenever each of the articles exchanged was of equal value with the same quantity of gold. \u2026 But there is another point to be considered in our calculation. The question is, whether we both exchange something superfluous for something necessary.",
+  "** As quoted in Antoine Lavoisier, Elements of Chemistry (trans. Robert Kerr, 1790), Preface, p. xiv.",
+  "* We shall not \u2026 begin this logic by definitions, axioms, or principles; we shall begin by observing the lessons which nature gives us.",
+  "* The tone in which an Englishman expresses anger would, in Italy, be only a mark of surprise.",
+  "* Our ideas are transformed sensations.",
+  "* To the eye of God there are no numbers: seeing all things at one time, he counts nothing."
+]

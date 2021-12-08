@@ -1,0 +1,5 @@
+[
+  "* \"All history is contemporary history.\"",
+  "*Poetry is produced not by the mere caprice of pleasure, but by natural necessity. It is the primary activity of the human mind.",
+  "* Language is articulated, limited sound organized for the purpose of expression. "
+]

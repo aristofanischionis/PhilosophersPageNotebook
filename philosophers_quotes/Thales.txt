@@ -1,0 +1,13 @@
+[
+  "** Panta pl\u00ear\u00ea the\u00f4n einai.",
+  "* Water is the first principle of everything.",
+  "** Time is the wisest of all things that are; for it brings everything to light.",
+  "** A multitude of words is no proof of a prudent mind.",
+  "** Avoid doing what you would blame others for doing.",
+  "** Place is the greatest thing, as it contains all things.",
+  "** Know thyself.",
+  "* good that is common to all men; those who have nothing else possess hope still.",
+  "* Placing your stick at the end of the shadow of the pyramid, you made by the suns rays two triangles, and so proved that the pyramid [height] was to the stick [height] as the shadow of the pyramid to the shadow of the stick.",
+  "* Do not ask who started it. Finish it",
+  "* Nothing is more ancient than beautiful than the world, it is the work of that same God; nothing is more active than thought, for it flies over the whole universe; nothing is stronger than necessity, for all must submit to it."
+]

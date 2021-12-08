@@ -1,0 +1,9 @@
+[
+  "* The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes. Therefore in medicine we ought to know the causes of sickness and health. And because health and sickness and their causes are sometimes manifest, and sometimes hidden and not to be comprehended except by the study of symptoms, we must also study the symptoms of health and disease. Now it is established in the sciences that no knowledge is acquired save through the study of its causes and beginnings, if it has had causes and beginnings; nor completed except by knowledge of its accidents and accompanying essentials. Of these causes there are four kinds: material, efficient, formal, and final.",
+  "* Those who deny the first principle should be flogged or burned until they admit that it is not the same thing to be burned and not burned, or whipped and not whipped.",
+  "* An ignorant doctor is the aide-de-camp of death.",
+  "* God, the supreme being, is neither circumscribed by space, nor touched by time; he cannot be found in a particular direction, and his essence cannot change. The secret conversation is thus entirely spiritual; it is a direct encounter between God and the soul, abstracted from all material constraints. ",
+  "* I [prefer] a short life with width to a narrow one with length.",
+  "* Medicine considers the human body as to the means by which it is cured and by which it is driven away from health.",
+  "* The world is divided into men who have wit and no religion and men who have religion and no wit."
+]

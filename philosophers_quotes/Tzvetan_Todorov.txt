@@ -1,0 +1,7 @@
+[
+  "* Nothing is more commonplace than the reading experience, and yet nothing is more unknown. Reading is such a matter of course that at first glance it seems there is nothing to say about it.",
+  "* Democracy brought to others through the barrel of a gun is not democracy; to impose it by force is to undermine it.",
+  "* Pride is not a wise counselor. People who believe themselves to be the incarnation of good have a distorted view of the world. The absence of any obstacle to the deployment of strength is dangerous for the strong themselves: passion takes precedence over reason. \"No power without limit can be legitimate,\" as Montesquieu wrote long ago. Political wisdom does not consist in seeking only immediate victory, nor does it require systematic preference of \"us\" over \"them.\"",
+  "* A maxim for the twenty-first century might well be to start not by people who claim always to Manichaean thinking itself.",
+  "* American society has always exercised a stronger pressure on individual behavior than Western European societies; but in time of war this pressure is notched a few degrees, and starts to become quite alarming."
+]

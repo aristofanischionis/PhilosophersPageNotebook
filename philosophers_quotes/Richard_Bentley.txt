@@ -1,0 +1,5 @@
+[
+  "*It is a maxim with me that no man was ever written out of reputation but by himself.",
+  "*The fortuitous or casual concourse of atoms.",
+  "* It is a pretty poem, Mr. Pope; but you must not call it Homer."
+]

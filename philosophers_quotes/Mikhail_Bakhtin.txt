@@ -1,0 +1,5 @@
+[
+  "* The word ... becomes \"ones own\" only when the speaker populates it with his own intention, his own accent, when he appropriates the word, adapting it to his own semantic and expressive intention. Prior to this moment of appropriation, the word does not exist in a neutral and impersonal language (it is not, after all, out of a dictionary that the speaker gets his words!), but rather it exists in other peoples mouths, in other peoples contexts, serving other peoples intentions.",
+  "* Not all words ... submit equally to this appropriation, to this seizure and transformation into private property: many words stubbornly resist, others remain alien, sound foreign in the mouth of the one who appropriated them and who now speaks them; they cannot be assimilated into his context and fall out of it; it is as if they put themselves in quotation marks against the will of the speaker.",
+  "* Language is not a neutral medium that passes freely and easily into the private property of the speakers intentions; it is populatedoverpopulatedwith the intentions of others."
+]

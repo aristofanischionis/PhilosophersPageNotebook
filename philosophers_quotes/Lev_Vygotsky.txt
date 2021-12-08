@@ -1,0 +1,7 @@
+[
+  "** Vygotskij, L. S. (1987). The genesis of higher mental functions. In R. Reiber (Ed.), The history of the development of higher mental functions (Vol. 4, pp. 97-120). New York: Plennum.",
+  "* As in the focus of a magnifying glass, play contains all developmental tendencies in a condensed form and is itself a major source of development.",
+  "*From the great creations of Spinoza, as from distant stars, light takes several centuries to reach us. Only the psychology of the future will be able to realize the ideas of Spinoza.",
+  "*My intellect has been shaped under the sign of Spinozas words, and it has tried not to be astounded, not to laugh, not to cry, but to understand.",
+  "*The philosophical perspective opens before is at this point of our study. For the first time in the process of psychological studies we can resolve essentially purely philosophical problems by means of a psychological experiment and demonstrate empirically the origin of the freedom of human will. We cannot trace in all its completeness the philosophical perspective opening before us here. We expect to do this in another work devotes to philosophy. Now we shall try only to note this perspective in order to see most clearly the place we have reached. We cannot help but note that we have come to the same understanding of freedom and self-control that Spinoza developed in his \u201cEthics.\u201d"
+]

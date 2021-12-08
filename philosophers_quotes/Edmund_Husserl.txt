@@ -1,0 +1,6 @@
+[
+  "* A new fundamental science, pure phenomenology, has developed within philosophy: This is a science of a thoroughly new type and endless scope. It is inferior in methodological rigor to none of the modern sciences. All philosophical disciplines are rooted in pure phenomenology, through whose development, and through it alone, they obtain their proper force.",
+  "* To every object there corresponds an ideally closed system of truths that are true of it and, on the other hand, an ideal system of possible cognitive processes by virtue of which the object and the truths about it would be given to any cognitive subject.",
+  "** Experience by itself is not science.",
+  "* First, anyone who seriously intends to become a philosopher must \"once in his life\" withdraw into himself and attempt, within himself, to overthrow and build anew all the sciences that, up to then, he has been accepting."
+]
